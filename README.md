@@ -15,7 +15,7 @@ For example, the `HomePage`, `ProductSelector`, and `CartManager` classes repres
  SOLID Principles
 The project adheres to SOLID principles, ensuring that the design is robust and maintainable:
 
-Single Responsibility Principle (SRP):** Each class is responsible for a single part of the functionality. For instance, the `CartManager` class handles cart operations, while the `FormFilling` class is responsible for filling out forms.
+- **Single Responsibility Principle (SRP):** Each class is responsible for a single part of the functionality. For instance, the `CartManager` class handles cart operations, while the `FormFilling` class is responsible for filling out forms.
   
 - **Open/Closed Principle (OCP):** Classes are open for extension but closed for modification. New functionality can be added by creating new classes without altering existing code.
 
